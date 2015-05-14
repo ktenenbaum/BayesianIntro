@@ -1,0 +1,10 @@
+Package: BayesianIntro
+Type: Package
+Title: What the package does (short line)
+Version: 1.0
+Date: 2015-05-13
+Author: Kevin Tenenbaum
+Maintainer: Kevin Tenenbaum <ktenenbaum@middlebury.edu>
+Description: Houses data for an introductory Bayesian Computation Text.
+License: GPL-2
+LazyData: true
